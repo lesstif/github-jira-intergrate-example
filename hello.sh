@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
 
-echo "Hello"
-echo "World"
+function hello() {
+    echo "Hello";
+}
+
+hello
+
